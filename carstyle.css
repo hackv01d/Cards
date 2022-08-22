@@ -25,11 +25,11 @@
     border-left: 25px solid #100e10;
 }
 
-
 img {
     object-fit: cover;
     width: 100%;
     height: inherit;
+    cursor: pointer;
 }
 
 .plagin .open{
