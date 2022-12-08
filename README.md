@@ -1,3 +1,3 @@
-# img-slide
+# Cards
 
-(slide img)[https://ivantomsk.github.io/img-slide/]
+(Cards - pet-project)[https://ivantomsk.github.io/img-slide/]
