@@ -1,3 +1,3 @@
 # Cards
 
-(Cards - pet-project)[https://ivantomsk.github.io/img-slide/]
+[Cards - pet-project](https://ivantomsk.github.io/Cards/)
